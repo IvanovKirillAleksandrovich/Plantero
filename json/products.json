@@ -1,0 +1,71 @@
+{
+   "products": [
+      {
+         "id": 5,
+         "url": "#",
+         "title": "Платіцеріум",
+         "text": "Декоративна папороть",
+         "labels": "",
+         "image": "05.jpg",
+         "price": "2500",
+         "priceOld": "",
+         "shareUrl": "",
+         "likeUrl": ""
+      },
+      {
+         "id": 6,
+         "url": "#",
+         "title": "Драцена",
+         "text": "Тропічна рослина",
+         "labels": [
+            {
+               "type": "sale",
+               "value": "-50%"
+            },
+            {
+               "type": "new",
+               "value": "Нове"
+            }
+         ],
+         "image": "06.jpg",
+         "price": "2500",
+         "priceOld": "3500",
+         "shareUrl": "",
+         "likeUrl": ""
+      },
+      {
+         "id": 7,
+         "url": "#",
+         "title": "Каладіум",
+         "text": "Багаторічне бульбове",
+         "labels": [
+            {
+               "type": "sale",
+               "value": "-50%"
+            }
+         ],
+         "image": "07.jpg",
+         "price": "7000",
+         "priceOld": "14000",
+         "shareUrl": "",
+         "likeUrl": ""
+      },
+      {
+         "id": 8,
+         "url": "#",
+         "title": "Нефролепіс",
+         "text": "стійка папороть",
+         "labels": [
+            {
+               "type": "new",
+               "value": "Нове"
+            }
+         ],
+         "image": "08.jpg",
+         "price": "5000",
+         "priceOld": "",
+         "shareUrl": "",
+         "likeUrl": ""
+      }
+   ]
+}
